@@ -169,7 +169,7 @@ export default function Home() {
           </div>
           <div className='flex flex-col gap-4'>
             <div className='text-base font-medium md:text-lg lg:text-xl lg:w-3/4'>
-              Afta Business
+              Ashoka Facilities and Travel Agency
             </div>
             <div>
               Contact Us at <b>prettisk@aftabusiness.com</b> or{' '}
