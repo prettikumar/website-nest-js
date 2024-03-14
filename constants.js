@@ -32,6 +32,6 @@ export const services = [
   {
     service: 'Car Services',
     description:
-      'Experience the epitome of luxury and reliability with our premium car services, ensuring a smooth and stylish journey for every occasion.',
+      'Indulge in unparalleled luxury and unwavering reliability with our exclusive car services. Elevate every journey to a pinnacle of sophistication and comfort, tailored to suit any occasion. Experience seamless transportation with our premium fleet, promising a blend of opulence and dependability for your utmost satisfaction.',
   },
 ]
